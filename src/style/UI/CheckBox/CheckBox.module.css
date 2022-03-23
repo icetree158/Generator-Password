@@ -1,0 +1,16 @@
+.check_box{
+    width: 15px;
+    height: 15px;
+        background-color: aqua;
+        background: oldlace;
+        margin-right: 5px;
+    
+}
+.container_checkbox{
+    
+    float:left; 
+    text-align:center;
+    padding: 10px;
+    color: white;
+    
+}
